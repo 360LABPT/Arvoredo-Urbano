@@ -72,4 +72,4 @@ A versão 0.1.1 usa o fornecedor GeoPackage do QGIS para o histórico e evita im
 
 ## Autor e colaboração
 
-Desenvolvido por **Bruno Raposo**. Sugestões e relatos de erros são bem-vindos nos *Issues* do repositório. Inclua a versão do QGIS, a versão do plugin, os passos para reproduzir o problema e a mensagem de erro, retirando previamente dados pessoais ou sensíveis.
+Desenvolvido por **360LAB**. Sugestões e relatos de erros são bem-vindos nos *Issues* do repositório. Inclua a versão do QGIS, a versão do plugin, os passos para reproduzir o problema e a mensagem de erro, retirando previamente dados pessoais ou sensíveis.
